@@ -21,3 +21,12 @@ card_heal = create_card(
     card_effect_heal,
     [undefined, 10]
 );
+
+//card_area_attack = create_card(
+//    "Area Attack",
+//    spr_card_area_new,
+//    "Attack all of the enemies",
+//    card_effect_area,
+//    [5]
+//    );
+//

@@ -14,3 +14,15 @@ function play_card(_card) {
     // Call the stored effect with parameters
     _card.effect.apply(undefined, _card.params);
 }
+
+function shuffle_cards(_array) {
+    var len = array_length(_array);
+    for (var i = 0; i < len; i++) {
+        for (var j = 0; j < array_length(_array); j++) {
+            var temppos = irandom(len-1);
+            var tempval = _array[temppos];
+            _array[temppos] = _array[j];
+            _array[j] = tempval;
+        }
+    }
+}
