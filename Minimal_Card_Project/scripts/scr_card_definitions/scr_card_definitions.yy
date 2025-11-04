@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_card_definitions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_card_definitions",
+  "parent":{
+    "name":"Minimal_Card_Project",
+    "path":"Minimal_Card_Project.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

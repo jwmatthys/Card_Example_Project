@@ -23,6 +23,7 @@
     {"id":{"name":"obj_deck","path":"objects/obj_deck/obj_deck.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"scr_card_create","path":"scripts/scr_card_create/scr_card_create.yy",},},
+    {"id":{"name":"scr_card_definitions","path":"scripts/scr_card_definitions/scr_card_definitions.yy",},},
     {"id":{"name":"scr_card_effects","path":"scripts/scr_card_effects/scr_card_effects.yy",},},
     {"id":{"name":"spr_card_back","path":"sprites/spr_card_back/spr_card_back.yy",},},
     {"id":{"name":"spr_card_heal_new","path":"sprites/spr_card_heal_new/spr_card_heal_new.yy",},},
