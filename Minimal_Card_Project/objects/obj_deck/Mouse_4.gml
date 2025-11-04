@@ -1,0 +1,1 @@
+draw_cards(3);

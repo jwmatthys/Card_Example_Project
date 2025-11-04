@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scr_card_utilities",
+  "%Name":"scr_card_create",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_card_utilities",
+  "name":"scr_card_create",
   "parent":{
     "name":"Minimal_Card_Project",
     "path":"Minimal_Card_Project.yyp",
